@@ -3,7 +3,16 @@ I am Rhokeeb,a full stack engineer based in Nigeria.
 
 I build fast,scalable web and mobile apps that works with real time.
 
-My main tech stark is React,React native,js,node.js,mongodb,sql,typescript and c.
+My main tech stark is React/React native,html/css,js,node.js,mongodb,sql,typescript and c.
+
+I am currently working on building complex server side projects.
+
+fun fact: 
+  ->I have a dog.
+  ->I have the urge to learn everything.
+  ->I am a student of the University of Lagos,Nigeria.
+  ->Hobbies:Anime,Eating,Building things.
+  
 
 
 
