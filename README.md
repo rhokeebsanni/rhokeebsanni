@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi there 👋
+I am Rhokeeb,a full stack engineer based in Nigeria.
+
+I build fast,scalable web and mobile apps that works with real time.
+
+My main tech stark is React,React native,js,node.js,mongodb,sql,typescript and c.
+
+
+
 
 <!--
 **rhokeebsanni-coder/rhokeebsanni-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
