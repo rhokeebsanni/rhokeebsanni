@@ -1,18 +1,58 @@
-Hi there 👋
-I am Rhokeeb,a full stack engineer based in Nigeria.
+# Hi, I'm Rhokeeb 👋
 
-I build fast,scalable web and mobile apps that works with real time.
+## About Me
 
-My main tech stark is React/React native,html/css,js,node.js,mongodb,sql,typescript and c.
+I'm a full-stack developer focused on building practical web applications with modern JavaScript technologies.
 
-I am currently working on building complex server side projects.
+Currently working with:
 
-fun fact: 
-  ->I have a dog.
-  ->I have the urge to learn everything.
-  ->I am a student of the University of Lagos,Nigeria.
-  ->Hobbies:Anime,Eating,Building things.
-  
+* React
+* Node.js
+* Express.js
+* MongoDB
+* JWT Authentication
+* REST APIs
+* Google OAuth
+
+## Featured Projects
+
+### Wholesale Pricing Engine
+
+A pricing and rebate management platform for calculating material costs and unit pricing.
+
+**Tech Stack**
+
+* React
+* Node.js
+* Express
+* MongoDB
+
+### Task Manager
+
+A full-stack productivity application with authentication and persistent data storage.
+
+**Tech Stack**
+
+* React
+* Express
+* MongoDB
+
+## Current Focus
+
+* Advanced backend development
+* Authentication and security
+* API architecture
+* Deployment and cloud hosting
+
+## Connect With Me
+
+* GitHub: https://github.com/rhokeebsanni
+* LinkedIn: https://www.linkedin.com/in/rhokeeb-sanni/
+
+---
+
+Always building, always learning.
+
 
 
 
