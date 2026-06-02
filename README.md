@@ -1,57 +1,92 @@
 # Hi, I'm Rhokeeb 👋
 
-## About Me
+Full-stack JavaScript developer passionate about building practical web applications and solving real-world problems.
 
-I'm a full-stack developer focused on building practical web applications with modern JavaScript technologies.
+## Tech Stack
 
-Currently working with:
+### Frontend
 
 * React
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Axios
+
+### Backend
+
 * Node.js
 * Express.js
-* MongoDB
-* JWT Authentication
 * REST APIs
+* JWT Authentication
 * Google OAuth
+
+### Database
+
+* MongoDB
+* Mongoose
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+* Render
+* Vercel
 
 ## Featured Projects
 
 ### Wholesale Pricing Engine
 
-A pricing and rebate management platform for calculating material costs and unit pricing.
+A full-stack pricing management platform that helps calculate rebates, material yields, and unit prices.
 
-**Tech Stack**
+**Features**
 
-* React
-* Node.js
-* Express
-* MongoDB
+* User authentication
+* Google Sign-In
+* JWT access and refresh tokens
+* Material management
+* Snapshot history
+* Responsive UI
+
+**Stack**
+React • Node.js • Express • MongoDB
+
+---
 
 ### Task Manager
 
-A full-stack productivity application with authentication and persistent data storage.
+A task management application with persistent storage and authentication.
 
-**Tech Stack**
+**Features**
 
-* React
-* Express
-* MongoDB
+* Create, update, and delete tasks
+* User accounts
+* Secure authentication
+* RESTful API architecture
 
-## Current Focus
+**Stack**
+React • Node.js • Express • MongoDB
 
-* Advanced backend development
-* Authentication and security
-* API architecture
-* Deployment and cloud hosting
+## What I'm Learning
 
-## Connect With Me
+* Backend architecture
+* Authentication systems
+* API security
+* Cloud deployment
+* Software engineering best practices
+
+## Goals
+
+* Build production-ready web applications
+* Contribute to open-source projects
+* Grow as a full-stack engineer
+
+## Connect
 
 * GitHub: https://github.com/rhokeebsanni
 * LinkedIn: https://www.linkedin.com/in/rhokeeb-sanni/
 
----
-
-Always building, always learning.
+Thanks for stopping by.
 
 
 
